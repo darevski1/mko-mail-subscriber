@@ -4,7 +4,7 @@
 
 $dsn = "mysql:host=62.108.40.88; dbname=mode.dev";
 $user = 'admin';
-$password = '123mafijaX';
+$password = 'somepassword';
 
 
 try {
